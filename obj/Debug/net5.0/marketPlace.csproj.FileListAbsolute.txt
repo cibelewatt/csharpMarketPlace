@@ -1,0 +1,16 @@
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\bin\Debug\net5.0\marketPlace.exe
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\bin\Debug\net5.0\marketPlace.deps.json
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\bin\Debug\net5.0\marketPlace.runtimeconfig.json
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\bin\Debug\net5.0\marketPlace.runtimeconfig.dev.json
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\bin\Debug\net5.0\marketPlace.dll
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\bin\Debug\net5.0\ref\marketPlace.dll
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\bin\Debug\net5.0\marketPlace.pdb
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\obj\Debug\net5.0\marketPlace.csproj.AssemblyReference.cache
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\obj\Debug\net5.0\marketPlace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\obj\Debug\net5.0\marketPlace.AssemblyInfoInputs.cache
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\obj\Debug\net5.0\marketPlace.AssemblyInfo.cs
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\obj\Debug\net5.0\marketPlace.csproj.CoreCompileInputs.cache
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\obj\Debug\net5.0\marketPlace.dll
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\obj\Debug\net5.0\ref\marketPlace.dll
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\obj\Debug\net5.0\marketPlace.pdb
+C:\Programacao\projetos\letscode\2021-08-CsharpDotnet\projectMarketPlace\projeto\marketPlace\marketPlace\obj\Debug\net5.0\marketPlace.genruntimeconfig.cache
